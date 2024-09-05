@@ -50,11 +50,11 @@ A replica of the Tesla website showcasing electric car. This project mimics the 
    ```
 #### Alternatively. . .
 
-Download the zip
-Unzip folder
-Open vs-code
-Open folder on vs-code
-'Go live' on vs code
+* Download the zip
+* Unzip folder
+* Open vs-code
+* Open folder on vs-code
+* 'Go live' on vs code
 
 ## Usage
 
