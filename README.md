@@ -60,9 +60,6 @@ A replica of the Tesla website showcasing electric car. This project mimics the 
 
 1. Open [http://localhost:3000](http://localhost:3000) in your browser.
 2. Navigate through section like Model S
-3. Experience the smooth scrolling and animations as you explore the website.
-4. Customize the site content by editing the `src` folder components for car models, sections, and navigation.
-
 
 ## Acknowledgements
 
